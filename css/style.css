@@ -1,0 +1,64 @@
+/* detail of company */
+.para1{
+ padding: 0px 300px 0px 0px;
+}
+
+.back1{
+    background-color: black;
+}
+.center1{
+    text-align: center;
+}
+#detail-below{
+height: 100px;
+text-align: center;
+}
+
+.detail-below-para{
+    font-size: 10px;
+    
+}
+
+/* form without border */
+
+input {
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    background-color: #eee;
+  }
+  
+  .no-outline:focus {
+    outline: none;
+  }
+
+  .video-para{
+      font-size: 11px;
+  }
+ 
+
+  .main-up-image{
+    
+    position: relative;
+
+  }
+
+  .main-up-text{
+      
+      
+      position: absolute;
+      top: 300px;
+      left:460px;
+      
+      transform: translate(-50%, -50%);
+     
+  }
+  .main-up-red{
+    position: absolute;
+    top: 360px;
+    left:460px;
+    
+    
+    transform: translate(-50%, -50%);
+  }
